@@ -1,0 +1,7 @@
+In our collage they organized a fair called innovation village for DE projects. In that fair our
+guide suggested some changes as user perspective. Guide selected 8-9 project to review
+them. As our guide suggested improvement and user needs we added that features to our
+system in updated version of prototype. and also we find some problem that we solved and
+will try to solve in updated version. We performed unit testing considering parameters to
+taste is time delay , user requirements ,user’s ease ,time saving and responsiveness of system
+etc.

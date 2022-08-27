@@ -1,0 +1,8 @@
+At the broadest level, ethics can be applied in the overall approach to the system design.
+however, those approaches vary considerably in their ability to deal with ethical issues. We
+have designed our system by keeping in mind the impact of design and innovation on society
+and the environment. The system is designed for book the Doctor Appointment for 24*7 services
+. the key users of the systems are all the professionals like Web developer, Software engineer etc.
+apart from that a person having Knowledge of web development and want to learn this system from that they can use this
+you can help people. The system is designed in a unique way and not fully influenced by
+some other system. 
